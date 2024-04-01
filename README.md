@@ -3,3 +3,8 @@
 # Maxima
 
 Maxima files repository
+
+## Useful Links
+
+[Maxima Homepage](https://maxima.sourceforge.io/pt/index.html)
+[Maxima by Example](https://home.csulb.edu/~woollett/mbe.html)
